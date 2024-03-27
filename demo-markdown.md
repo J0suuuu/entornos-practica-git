@@ -2,7 +2,7 @@
 
 Este es un ejemplo de un **Markdown**. 
 
-Este archivo se muestra en tu repositorio justo abajo de los archivos que este incluye:
+En los archivos Markdown podemos incluir:
 
 - Listas
 
