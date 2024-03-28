@@ -1,6 +1,6 @@
 # Entornos de Práctica Git
 
-Este repositorio se utiliza como práctica para aprender y experimentar con Git y GitHub. Contiene ejemplos básicos de uso de Git y archivos de demostración en formato Markdown.
+Este repositorio se utiliza como práctica para aprender y experimentar con Git y GitHub. Contiene un ejemplo de archivo Markdown.
 
 ## Contenido
 
